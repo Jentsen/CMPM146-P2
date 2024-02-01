@@ -23,6 +23,7 @@ def traverse_nodes(node: MCTSNode, board: Board, state, bot_identity: int):
         state: The state associated with that node
 
     """
+
     pass
 
 def expand_leaf(node: MCTSNode, board: Board, state):
