@@ -9,8 +9,10 @@ The 1 bot wins this round! ({1: 1, 2: -1})
 Final win counts: {'draw': 0, 1: 86, 2: 14}
 723.977974599984  seconds
 ●	Using your existing implementation from mcts_vanilla.py as base code, implement mcts_modified.py with the addition of your own heuristic rollout strategy as an improvement over vanilla MCTS. Optional: You may also adjust other aspects of the tree search, by implementing the variations discussed in class (roulette selection, partial expansion, etc).
+
 See below.
 ●	Perform the two experiments described below.
+
 See experiment1.pdf and experiment2.pdf for details on the experiments.
 
 ### Modifications to mcts_modified.py:
